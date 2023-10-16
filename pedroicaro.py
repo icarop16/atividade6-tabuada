@@ -11,5 +11,14 @@ Tabuada7 = numero*7
 Tabuada8 = numero*8
 Tabuada9 = numero*9
 Tabuada10 = numero*10
-Tabuada_completa= [Tabuada0, Tabuada1, Tabuada2,Tabuada3, Tabuada4, Tabuada5, Tabuada6, Tabuada7, Tabuada8, Tabuada9, Tabuada10]
-print(Tabuada_completa)
+print(Tabuada0)
+print(Tabuada1)
+print(Tabuada2)
+print(Tabuada3)
+print(Tabuada4)
+print(Tabuada5)
+print(Tabuada6)
+print(Tabuada7)
+print(Tabuada8)
+print(Tabuada9)
+print(Tabuada10)
